@@ -6,7 +6,7 @@ Come funziona
 Quando eseguito crea una finestra che mostra una tabella dei campi del bar Cieri. C'è una checkbox che permette di mostrare solo i campi disponibili oscurando quelli non disponibili.
 
 
-Note dell'creatore
+Note del creatore
 
 IDE utilizzato: intellij IDEA
 
